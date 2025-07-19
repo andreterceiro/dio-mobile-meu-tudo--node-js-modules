@@ -14,3 +14,8 @@ OBS: Please the tests in the directory "tests".
 # Running the main script of the package.json
 
 I explained this question in [this video](https://www.youtube.com/watch?v=m-jJNJCgMQc)
+
+
+# Exporting two fuctions
+
+Please see the files in the folder tests/exporting-2-functions
