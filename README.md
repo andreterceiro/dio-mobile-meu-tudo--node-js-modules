@@ -39,7 +39,7 @@ Or more than a item:
 
 ```
 const name = "Enzo"
-const AGE = 5
+const age = 5
 module.exports = {
     name: name,
     age: age
