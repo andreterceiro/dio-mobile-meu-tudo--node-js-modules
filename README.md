@@ -84,3 +84,8 @@ If you wanna to use only some functions/constants of a module, you can use the "
 # Slides of the class
 
 [link](https://hermes.dio.me/files/assets/0d9f3b1d-ad86-44e8-927a-4322c486e910.pptx)
+
+
+# Teacher files related to the class
+
+[link](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/04-commonjs-modules)
