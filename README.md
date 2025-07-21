@@ -61,7 +61,3 @@ module.exports = {
 # Hidden functions
 
 A hidden function is a non exported function. You can have this type of function to use inside the module, as example in an exported function.
-
-
-
-
