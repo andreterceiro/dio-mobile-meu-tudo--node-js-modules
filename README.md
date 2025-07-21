@@ -72,3 +72,10 @@ One way to do this you can see in this next image:
 And to use this syntax with the async keyword, please see the place where to put the keyword "async". Is not in the beginning of the line:
 
 ![export default async](images/export-default-async.png)
+
+
+# Destructuring
+
+If you wanna to use only some functions/constants of a module, you can use the "destructure" syntax:
+
+![destructure syntax](images/destructuring.png)
