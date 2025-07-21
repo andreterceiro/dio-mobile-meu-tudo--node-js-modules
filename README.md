@@ -89,3 +89,8 @@ If you wanna to use only some functions/constants of a module, you can use the "
 # Teacher files related to the class
 
 [link](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/04-commonjs-modules)
+
+
+# Node.js documentation reference
+
+[link](https://nodejs.org/api/modules.html)
