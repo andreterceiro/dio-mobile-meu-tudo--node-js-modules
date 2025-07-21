@@ -46,4 +46,17 @@ module.exports = {
 }
 ```
 
+If you will export a value which key is the same of the name of the variable, you can ommit the key on export:
+
+```
+const name = "Enzo"
+const age = 5
+module.exports = {
+    name,
+    age:
+}
+```
+
+
+
 
