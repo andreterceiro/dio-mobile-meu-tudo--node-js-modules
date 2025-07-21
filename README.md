@@ -19,3 +19,8 @@ I explained this question in [this video](https://www.youtube.com/watch?v=m-jJNJ
 # Exporting two fuctions
 
 Please see the files in the folder tests/exporting-2-functions
+
+
+# Exporting constants
+
+You can also export a constant, you can do this that same way you export a function, but you have only to export a constant.
