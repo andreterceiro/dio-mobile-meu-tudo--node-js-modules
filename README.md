@@ -68,3 +68,7 @@ A hidden function is a non exported function. You can have this type of function
 One way to do this you can see in this next image:
 
 ![export default](images/export-default.png)
+
+And to use this syntax with the async keyword, please see the place where to put the keyword "async". Is not in the beginning of the line:
+
+![export default async](images/export-default-async.png)
