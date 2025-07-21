@@ -24,3 +24,26 @@ Please see the files in the folder tests/exporting-2-functions
 # Exporting constants
 
 You can also export a constant, you can do this that same way you export a function, but you have only to export a constant.
+
+
+# Ways to export
+
+You can export only an item, example:
+
+```
+const item = "Bola"
+module.exports = item
+```
+
+Or more than a item:
+
+```
+const name = "Enzo"
+const AGE = 5
+module.exports = {
+    name: name,
+    age: age
+}
+```
+
+
