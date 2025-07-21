@@ -79,3 +79,8 @@ And to use this syntax with the async keyword, please see the place where to put
 If you wanna to use only some functions/constants of a module, you can use the "destructure" syntax:
 
 ![destructure syntax](images/destructuring.png)
+
+
+# Slides of the class
+
+[link](https://hermes.dio.me/files/assets/0d9f3b1d-ad86-44e8-927a-4322c486e910.pptx)
